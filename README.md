@@ -3,8 +3,9 @@
 ===========================================
 
 [![React Native](https://img.shields.io/badge/React%20Native-v0.60.4-blue.svg)](https://facebook.github.io/react-native/)
+[![Redux](https://img.shields.io/badge/Redux-v4.0.4-blue.svg)](https://redux.js.org/)
 [![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v3.11-blue.svg)](https://reactnavigation.org/)
-
+[![Redux Persist](https://img.shields.io/badge/Redux%20Persist-v5.10.0-blue.svg)](https://github.com/rt2zz/redux-persist)
 
 React Native Boilerplate is a starting point for React Native application. This project is configured with redux, redux thunk 
 and redux persist. Latest version of react-navigation (v3.11).
@@ -17,7 +18,7 @@ and redux persist. Latest version of react-navigation (v3.11).
 * [Redux Persist](https://github.com/rt2zz/redux-persist/)
 * [React Navigation](https://reactnavigation.org/) 
 * [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler) 
-
+* [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ## Prerequisites
 
@@ -55,6 +56,10 @@ and redux persist. Latest version of react-navigation (v3.11).
     * Hit `Run` after selecting the desired device
     
 14. Enjoy!!!
+
+## Debug
+Use [React Native Debugger](https://github.com/jhen0409/react-native-debugger) to debug React and Redux with Redux devtool
+![React Native Debugger](https://user-images.githubusercontent.com/3001525/29451479-6621bf1a-83c8-11e7-8ebb-b4e98b1af91c.png)
 
 
 ## Contributing
