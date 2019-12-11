@@ -2,7 +2,7 @@
 🚀 React Native Boilerplate
 ===========================================
 
-[![React Native](https://img.shields.io/badge/React%20Native-v0.60.4-blue.svg)](https://facebook.github.io/react-native/)
+[![React Native](https://img.shields.io/badge/React%20Native-v0.61.5-blue.svg)](https://facebook.github.io/react-native/)
 [![Redux](https://img.shields.io/badge/Redux-v4.0.4-blue.svg)](https://redux.js.org/)
 [![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v3.11-blue.svg)](https://reactnavigation.org/)
 [![Redux Persist](https://img.shields.io/badge/Redux%20Persist-v5.10.0-blue.svg)](https://github.com/rt2zz/redux-persist)
